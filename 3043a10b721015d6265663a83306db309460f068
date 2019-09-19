@@ -1,0 +1,1 @@
+{"jobID":"af09210a-7f64-c43c-cb6f-272cc8f4971c","spec":{"type":"policy","cause":{"Message":"","User":"周芬 \u003cfen.zhou@yitu-inc.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:3.0.*"},"remove":{}}}},"result":null}
